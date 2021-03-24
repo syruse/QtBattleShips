@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>got.png</file>
+        <file>missed.png</file>
+        <file>Water.jpg</file>
+    </qresource>
+</RCC>
